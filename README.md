@@ -1,5 +1,7 @@
-<h2 align="left">Hi 👋, I'm Dhriti</h2>
+<h2 align="center">Hi 👋, I'm Dhriti</h2>
 <h3 align="center">Web development enthusiast with a focus on front-end design. Also studying cybersecurity to blend coding skills with digital security.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dhritii07&label=Profile%20views&color=0e75b6&style=flat" alt="Dhritii07" /> </p>
 
 - 🌱 I’m currently learning **Backend Development**
 
@@ -13,10 +15,6 @@
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dhritii07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
@@ -53,6 +51,5 @@
 ###
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Dhritii07/Dhritii07/output/snake.svg" alt="Snake animation" />
 
 ###
