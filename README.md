@@ -1,7 +1,6 @@
 <h2 align="center">Hi 👋, I'm Dhriti</h2>
 <h3 align="center">Web development enthusiast with a focus on front-end design. Also studying cybersecurity to blend coding skills with digital security.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dhritii07&label=Profile%20views&color=0e75b6&style=flat" alt="Dhritii07" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhritii07&label=Profile%20views&color=0e75b6&style=flat" alt="dhritii07" /> </p>
 
 - 🌱 I’m currently learning **Backend Development**
 
