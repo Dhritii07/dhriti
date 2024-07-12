@@ -8,6 +8,11 @@
 
 ###
 
+
+<img align="right" height="150" src="https://media1.tenor.com/m/58XMqPfsnoEAAAAC/magic-computer.gif"  />
+
+###
+
 <br clear="both">
 
 <center><img align = "center" src="https://raw.githubusercontent.com/Dhritii07/Dhritii07/output/snake.svg" alt="Snake animation" /></center>
@@ -44,6 +49,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" height="40" alt="flask logo"  />
+  <img width="40" />
 </div>
 
 ###
