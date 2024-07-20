@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Backend Development & Cybersecurity**
 
-- 💬 Ask me about **HTML, CSS, JavaScript**
+- 💬 Ask me about **HTML, CSS, JavaScript, Python**
 
 
 ###
