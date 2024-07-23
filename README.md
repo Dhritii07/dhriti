@@ -48,7 +48,9 @@
 
 [![Dhriti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhritii07&show_icons=true&theme=dark)](https://github.com/Dhritii07)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhritii07&" alt="Dhritii07" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dhritii07&theme=dark)](https://github.com/Dhritii07)
+
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhritii07&" alt="Dhritii07" /></p> -->
 
   
 ###
